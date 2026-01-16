@@ -34,16 +34,8 @@
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </div>
-
-
 ---
-
-### 🎮 Interests
-- **Strategy Games:** Age of Empires & Clash of Clans.
-- **Photography:** Professional photo editing and digital manipulation.
-
 <div align="center">
-  <p><i>"Code is like photography, use the right lens to see the logic."</i></p>
   <a href="mailto:w.m.t.ravindusampath@gmail.com">
     <img src="https://img.shields.io/badge/Contact%20Me-Email-36BCF7?style=for-the-badge" />
   </a>
