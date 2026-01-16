@@ -42,7 +42,7 @@
 
 <div align="center">
   <p><i>"Code is like photography, use the right lens to see the logic."</i></p>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:w.m.t.ravindusampath@gmail.com">
     <img src="https://img.shields.io/badge/Contact%20Me-Email-36BCF7?style=for-the-badge" />
   </a>
 </div>
