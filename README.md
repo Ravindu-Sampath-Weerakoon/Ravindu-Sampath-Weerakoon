@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Ravindu Sampath 👋</h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Final+Year+CS+Honors+Student;C%2B%2B+%26+OpenGL+Developer;Behavioral+Auth+Researcher;Full+Stack+Dev+(React+%2F+Next.js);Python+%26+OpenCV+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Final+Year+CS+Honors+Student;C%2B%2B+%26+OpenGL+Developer;Full+Stack+Dev;Python+%26+OpenCV+AI+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 
 <div align="center">
   <p align="center">
@@ -10,11 +10,13 @@
 </div>
 </div>
 
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ravindu-Sampath-Weerakoon/Ravindu-Sampath-Weerakoon/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ravindu-Sampath-Weerakoon/Ravindu-Sampath-Weerakoon/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ravindu-Sampath-Weerakoon/Ravindu-Sampath-Weerakoon/output/github-contribution-grid-snake.svg">
   </picture>
+<div align="center">
 </div>
 
 ---
