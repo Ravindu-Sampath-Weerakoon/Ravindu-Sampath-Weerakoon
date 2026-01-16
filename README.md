@@ -44,6 +44,14 @@
 
 ---
 
+div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ravindu-Sampath-Weerakoon/Ravindu-Sampath-Weerakoon/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ravindu-Sampath-Weerakoon/Ravindu-Sampath-Weerakoon/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ravindu-Sampath-Weerakoon/Ravindu-Sampath-Weerakoon/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ### 🕹️ Interests & Hobbyist Pursuits
 - 🏰 **Strategy Gaming:** Age of Empires and Clash of Clans enthusiast.
 - 📸 **Photography:** Professional retouching and digital manipulation.
