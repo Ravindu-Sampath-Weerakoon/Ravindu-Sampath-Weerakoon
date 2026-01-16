@@ -36,6 +36,7 @@
 </div>
 ---
 <div align="center">
+  <p>Thank you</p>
   <a href="mailto:w.m.t.ravindusampath@gmail.com">
     <img src="https://img.shields.io/badge/Contact%20Me-Email-36BCF7?style=for-the-badge" />
   </a>
