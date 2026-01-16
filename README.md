@@ -37,10 +37,10 @@
 
 ---
 
-### 🧪 Current Focus & Research
-- 🔒 **Cybersecurity:** Investigating Behavioral Authentication and biometric patterns.
-- 👁️ **Computer Vision:** Working with skin color detection and hybrid image processing.
-- ⚡ **Performance:** Building high-performance Sales Order Systems with NestJS.
+### 🧪 Current Focus 
+- 🔒 .
+- 👁️ .
+- ⚡ .
 
 ---
 
