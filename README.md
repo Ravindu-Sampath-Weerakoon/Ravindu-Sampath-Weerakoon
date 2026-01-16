@@ -4,14 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Final+Year+CS+Honors+Student;C%2B%2B+%26+OpenGL+Developer;Behavioral+Auth+Researcher;Full+Stack+Dev+(React+%2F+Next.js);Python+%26+OpenCV+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 
 <div align="center">
-  <h2>📊 GitHub Statistics</h2>
-
-<div align="center">
-  <h2>📊 GitHub Statistics</h2>
-
   <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight" />
   </p>
 </div>
 </div>
@@ -39,16 +33,6 @@
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </div>
 
----
-
-
-
----
-
-### 🔬 Current Research & Focus
-- 🔒 **Behavioral Authentication:** Exploring biometric security patterns for my final year project.
-- 👁️ **Computer Vision:** Developing skin color detection and hybrid imaging systems.
-- ⚡ **Performance Systems:** Engineering Sales Order Systems with **NestJS** and **Next.js**.
 
 ---
 
