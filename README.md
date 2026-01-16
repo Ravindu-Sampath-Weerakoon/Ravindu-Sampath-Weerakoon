@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hi, I'm Ravindu Sampath 👋</h1>
+  <h1>Hi, I'm Ravindu Sampath Weerakoon</h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Final+Year+CS+Honors+Student;C%2B%2B+%26+OpenGL+Developer;Full+Stack+Dev;Python+%26+OpenCV+Developer;Python+AI;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Final+Year+CS+Honors+Student;C%2B%2B+%26+OpenGL+Developer;Full+Stack+Developer;Python+%26+OpenCV+Developer;Python+&+AI;Machine+Learning+Enthusiast" alt="Typing SVG" />
 
 <div align="center">
   <p align="center">
