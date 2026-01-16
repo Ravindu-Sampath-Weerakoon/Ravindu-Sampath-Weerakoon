@@ -44,7 +44,7 @@
 
 ---
 
-div align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ravindu-Sampath-Weerakoon/Ravindu-Sampath-Weerakoon/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ravindu-Sampath-Weerakoon/Ravindu-Sampath-Weerakoon/output/github-contribution-grid-snake.svg">
