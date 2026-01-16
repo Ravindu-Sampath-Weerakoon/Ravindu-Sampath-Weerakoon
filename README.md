@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Hi, I'm Ravindu Weerakoon  👋</h1>
+  <h1>Hi, I'm Ravindu Weerakoon </h1>
   <p><b>| Final Year CS Honors Student | Developer | Freelancer | Programmer | </b></p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=C%2B%2B+%26+OpenGL+Developer;Behavioral+Auth+Researcher;Unreal+Engine+5+Explorer" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=C%2B%2B+%26+OpenGL+Developer;Unreal+Engine+5+Explorer;Full+Stack+Dev+(React+%2F+Next.js);Python+%26+OpenCV+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
