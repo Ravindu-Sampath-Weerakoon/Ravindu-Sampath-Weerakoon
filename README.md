@@ -6,10 +6,14 @@
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
 
+<div align="center">
+  <h2>📊 GitHub Statistics</h2>
+
   <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Main Stats" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight" />
   </p>
+</div>
 </div>
 
   <picture>
