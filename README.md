@@ -21,18 +21,22 @@
 
 ---
 
-### 📊 GitHub Stats (Animated)
 <div align="center">
+  <h2>📈 My GitHub Metrics</h2>
+
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" />
+        <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=transparent&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&include_all_commits=true&count_private=true" alt="Main Stats" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=transparent&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7&sideNums=36BCF7&sideLabels=ffffff&dates=ffffff" alt="Streak Stats" />
       </td>
     </tr>
   </table>
+
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=transparent&title_color=36BCF7&text_color=ffffff&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
