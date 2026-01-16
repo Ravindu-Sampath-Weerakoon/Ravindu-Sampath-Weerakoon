@@ -27,10 +27,10 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=transparent&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&include_all_commits=true&count_private=true" alt="Main Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=transparent&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&include_all_commits=true&count_private=true" alt="Main Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=transparent&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7&sideNums=36BCF7&sideLabels=ffffff&dates=ffffff" alt="Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=transparent&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7&sideNums=36BCF7&sideLabels=ffffff&dates=ffffff" alt="Streak Stats" />
       </td>
     </tr>
   </table>
