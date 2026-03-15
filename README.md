@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+👋;I'm+Ravindu+Weerakoon" alt="Typing SVG" />
 
   <p align="center">
+    I am a passionate explorer of the digital realm, currently in my final year of Computer Science. My journey is fueled by a love for solving complex problems and building innovative solutions across the full stack. From the low-level precision of C/C++ to the dynamic versatility of JavaScript and Python, I am always looking for the next challenge to master and explore.
+  </p>
+
+  <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ravindu-Sampath-Weerakoon&theme=tokyonight&no-bg=true&column=5&margin-w=15" alt="github trophy" /></a>
   </p>
 </div>
@@ -11,18 +15,20 @@
 ### 📊 Coding Activity & Stats
 
 <div align="center">
-  <!-- Line 1: Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7aa2f7&text_color=9ece6a&icon_color=7dcfff&bg_color=1a1b26" alt="GitHub Stats" width="600" />
-  <br/>
-  <br/>
-  <!-- Line 2: Languages Bar Chart and Streak side-by-side with forced height alignment -->
-  <table border="0">
+  <table border="0" cellpadding="10" cellspacing="0">
+    <!-- Row 1: Main Stats -->
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7aa2f7&text_color=9ece6a&icon_color=7dcfff&bg_color=1a1b26" alt="GitHub Stats" width="600" />
+      </td>
+    </tr>
+    <!-- Row 2: Languages and Streak -->
     <tr>
       <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravindu-Sampath-Weerakoon&theme=tokyonight" alt="Most Used Languages" height="200" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravindu-Sampath-Weerakoon&theme=tokyonight" alt="Most Used Languages" height="210" />
       </td>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight&hide_border=true&stroke=7aa2f7&background=1a1b26&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7" alt="GitHub Streak" height="200" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight&hide_border=true&stroke=7aa2f7&background=1a1b26&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7" alt="GitHub Streak" height="210" />
       </td>
     </tr>
   </table>
