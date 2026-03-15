@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+👋;I'm+Ravindu+Weerakoon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+👋;I'm+Ravindu+Weerakoon" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ravindu-Sampath-Weerakoon&theme=tokyonight&no-bg=true&column=5&margin-w=15" alt="github trophy" /></a>
@@ -25,7 +25,24 @@
 ### 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,nextjs,opengl,unreal,opencv&perline=5&theme=dark" />
+  <!-- Animated Header for Languages -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=400&lines=Expertise+in+Languages" alt="Typing SVG" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,java,php,cs,go,rust&perline=5&theme=dark" />
+  <br/>
+  <br/>
+
+  <!-- Animated Header for Frameworks & Tools -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9ECE6A&center=true&vCenter=true&width=400&lines=Frameworks+%26+Environment" alt="Typing SVG" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,docker,git,linux,aws&perline=5&theme=dark" />
+  <br/>
+  <br/>
+
+  <!-- Animated Header for Graphics & AI -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7768E&center=true&vCenter=true&width=400&lines=Graphics+%26+Advanced+Tech" alt="Typing SVG" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=opengl,unreal,opencv,scikitlearn,blender,figma,postman,powershell,githubactions,vscode&perline=5&theme=dark" />
 </div>
 
 ---
