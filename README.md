@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Ravindu+Weerakoon;I+Love+Computer+Science;Exploring+the+Digital+World;Building+Future+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+👋;I'm+Ravindu+Weerakoon" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ravindu-Sampath-Weerakoon&theme=tokyonight&no-bg=true&margin-w=15" alt="github trophy" /></a>
@@ -25,7 +25,7 @@
 ### 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,nextjs,opengl,unreal,opencv,scikitlearn,git,docker,linux,powershell&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,nextjs,opengl,unreal,opencv&perline=5&theme=dark" />
 </div>
 
 ---
