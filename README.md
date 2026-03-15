@@ -25,24 +25,35 @@
 ### 🛠️ Technical Arsenal
 
 <div align="center">
-  <!-- Languages Row -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=400&lines=Languages+I+Use" alt="Typing SVG" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,java,php,cs,go,rust&perline=8&theme=dark" />
-  <br/>
-  <br/>
-
-  <!-- Frameworks Row -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9ECE6A&center=true&vCenter=true&width=400&lines=Frameworks+%26+Tools" alt="Typing SVG" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,docker,git,linux,aws&perline=8&theme=dark" />
-  <br/>
-  <br/>
-
-  <!-- Graphics Row -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7768E&center=true&vCenter=true&width=400&lines=Graphics+%26+Systems" alt="Typing SVG" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=opengl,unreal,opencv,scikitlearn,blender,figma,postman,powershell,githubactions,vscode&perline=8&theme=dark" />
+  <table border="0" cellpadding="10" cellspacing="0" width="100%">
+    <tr>
+      <td align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=%E2%94%81%E2%94%81%E2%94%81+LANGUAGES+I+USE+%E2%94%81%E2%94%81%E2%94%81" alt="Typing SVG" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,java,php,cs&theme=dark" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=go,rust,ruby,dart,swift,kotlin,elixir,haskell&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=9ECE6A&center=true&vCenter=true&width=500&lines=%E2%94%81%E2%94%81+FRAMEWORKS+%26+TOOLS+%E2%94%81%E2%94%81" alt="Typing SVG" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,docker,git&theme=dark" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=linux,aws,firebase,kubernetes,terraform,jenkins,ansible,nginx&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7768E&center=true&vCenter=true&width=500&lines=%E2%94%81%E2%94%81+GRAPHICS+%26+SYSTEMS+%E2%94%81%E2%94%81" alt="Typing SVG" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=opengl,unreal,opencv,scikitlearn,blender,figma,postman,powershell&theme=dark" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=githubactions,vscode,vim,obsidian,unity,threejs,pytorch,tensorflow&theme=dark" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -59,7 +70,7 @@
 
 ---
 
-### 📫 Connect with Me
+### 📫 Let's Connect
 
 <div align="center">
   <a href="mailto:w.m.t.ravindusampath@gmail.com">
