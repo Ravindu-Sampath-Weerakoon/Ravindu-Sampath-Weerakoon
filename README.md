@@ -48,7 +48,8 @@
       <td align="center">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7768E&center=true&vCenter=true&width=500&lines=%E2%94%81%E2%94%81+GRAPHICS+%26+SYSTEMS+%E2%94%81%E2%94%81" alt="Typing SVG" />
         <br/>
-        <img src="https://skillicons.dev/icons?i=opengl,unreal,opencv,scikitlearn,blender,figma,postman,powershell&theme=dark" />
+        <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=white" height="48" style="vertical-align:top; margin-right: 5px;" />
+        <img src="https://skillicons.dev/icons?i=unreal,opencv,scikitlearn,blender,figma,postman,powershell&theme=dark" />
         <br/>
         <img src="https://skillicons.dev/icons?i=githubactions,vscode,vim,obsidian,unity,threejs,pytorch,tensorflow&theme=dark" />
       </td>
