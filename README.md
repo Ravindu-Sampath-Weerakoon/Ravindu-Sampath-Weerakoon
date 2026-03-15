@@ -25,24 +25,28 @@
 ### 🛠️ Technical Arsenal
 
 <div align="center">
-  <!-- Animated Header for Languages -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=400&lines=Expertise+in+Languages" alt="Typing SVG" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,java,php,cs,go,rust&perline=5&theme=dark" />
-  <br/>
-  <br/>
-
-  <!-- Animated Header for Frameworks & Tools -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9ECE6A&center=true&vCenter=true&width=400&lines=Frameworks+%26+Environment" alt="Typing SVG" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,docker,git,linux,aws&perline=5&theme=dark" />
-  <br/>
-  <br/>
-
-  <!-- Animated Header for Graphics & AI -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7768E&center=true&vCenter=true&width=400&lines=Graphics+%26+Advanced+Tech" alt="Typing SVG" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=opengl,unreal,opencv,scikitlearn,blender,figma,postman,powershell,githubactions,vscode&perline=5&theme=dark" />
+  <table border="0">
+    <tr valign="top">
+      <td width="33%" align="center">
+        <!-- Languages Section -->
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=250&lines=Languages+I+Use" alt="Typing SVG" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,java,php,cs,go,rust&perline=2&theme=dark" />
+      </td>
+      <td width="33%" align="center">
+        <!-- Frameworks Section -->
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=9ECE6A&center=true&vCenter=true&width=250&lines=Frameworks+%26+Tools" alt="Typing SVG" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,docker,git,linux,aws&perline=2&theme=dark" />
+      </td>
+      <td width="33%" align="center">
+        <!-- Graphics Section -->
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F7768E&center=true&vCenter=true&width=250&lines=Graphics+%26+Systems" alt="Typing SVG" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=opengl,unreal,opencv,scikitlearn,blender,figma,postman,powershell,githubactions,vscode&perline=2&theme=dark" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
