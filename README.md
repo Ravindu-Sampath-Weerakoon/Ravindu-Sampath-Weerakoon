@@ -11,13 +11,13 @@
 ### 📊 Coding Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7aa2f7&text_color=9ece6a&icon_color=7dcfff&bg_color=1a1b26" alt="GitHub Stats" width="500" />
+  <!-- Line 1: Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7aa2f7&text_color=9ece6a&icon_color=7dcfff&bg_color=1a1b26" alt="GitHub Stats" width="600" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindu-Sampath-Weerakoon&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a&bg_color=1a1b26" alt="Top Languages" width="500" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight&hide_border=true&stroke=7aa2f7&background=1a1b26&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7" alt="GitHub Streak" width="500" />
+  <!-- Line 2: Languages and Streak side-by-side -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindu-Sampath-Weerakoon&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a&bg_color=1a1b26" alt="Top Languages" width="395" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight&hide_border=true&stroke=7aa2f7&background=1a1b26&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7" alt="GitHub Streak" width="395" />
 </div>
 
 ---
