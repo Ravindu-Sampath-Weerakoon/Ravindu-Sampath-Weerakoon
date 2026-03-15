@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+👋;I'm+Ravindu+Weerakoon" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ravindu-Sampath-Weerakoon&theme=tokyonight&no-bg=true&margin-w=15" alt="github trophy" /></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ravindu-Sampath-Weerakoon&theme=tokyonight&no-bg=true&column=5&margin-w=15" alt="github trophy" /></a>
   </p>
 </div>
 
