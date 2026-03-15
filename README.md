@@ -1,14 +1,31 @@
 <div align="center">
-  <h1>Hi, I'm Ravindu Sampath Weerakoon</h1>
-  
- 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ravindu+Sampath+Weerakoon;Software+Engineer;Computer+Science+Student;Graphics+Enthusiast" alt="Typing SVG" />
 
-<div align="center">
   <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight" />
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ravindu-Sampath-Weerakoon&theme=tokyonight&no-bg=true&margin-w=15" alt="github trophy" /></a>
+  </p>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7aa2f7&text_color=9ece6a&icon_color=7dcfff&bg_color=1a1b26" alt="GitHub Stats" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindu-Sampath-Weerakoon&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a&bg_color=1a1b26" alt="Top Languages" height="180" />
+  </div>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight&hide_border=true&stroke=7aa2f7&background=1a1b26&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7" alt="GitHub Streak" height="180" />
   </p>
 </div>
+
+---
+
+### 🚀 Technical Expertise
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,nextjs,opengl,unreal,opencv,scikitlearn,git,docker,linux,powershell&perline=8&theme=dark" />
 </div>
+
+---
+
+### 🐍 Contribution Journey
 
 <div align="center">
   <picture>
@@ -16,28 +33,22 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ravindu-Sampath-Weerakoon/Ravindu-Sampath-Weerakoon/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ravindu-Sampath-Weerakoon/Ravindu-Sampath-Weerakoon/output/github-contribution-grid-snake.svg">
   </picture>
-<div align="center">
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 📫 Connect & Network
+
 <div align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/opengl-FFFFFF?style=for-the-badge&logo=opengl&logoColor=red" />
-  <img src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</div>
----
-<div align="center">
-  <p>Thank you</p>
   <a href="mailto:w.m.t.ravindusampath@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-Email-36BCF7?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://linkedin.com/in/ravindu-sampath-weerakoon" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Ravindu-Sampath-Weerakoon&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
