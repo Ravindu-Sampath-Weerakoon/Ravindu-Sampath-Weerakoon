@@ -9,15 +9,6 @@
   <p align="center" style="max-width: 680px; line-height: 1.6; color: #888;">
     I am a passionate explorer of the digital realm, currently in my final year of Computer Science. My journey is fueled by a love for solving complex problems and building innovative solutions across the full stack. From the low-level precision of C/C++ to the dynamic versatility of JavaScript and Python, I am always looking for the next challenge to master and explore.
   </p>
-
-  <!-- Clean Trophies Setup -->
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Ravindu-Sampath-Weerakoon&theme=tokyonight&no-bg=true&column=5&margin-w=15">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Ravindu-Sampath-Weerakoon&theme=flat&no-bg=true&column=5&margin-w=15">
-      <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Ravindu-Sampath-Weerakoon&theme=tokyonight&no-bg=true&column=5&margin-w=15">
-    </picture>
-  </p>
 </div>
 
 ---
@@ -75,12 +66,12 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7aa2f7&text_color=9ece6a&icon_color=7dcfff&bg_color=1a1b26">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=default&hide_border=true&count_private=true">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight&hide_border=true&stroke=7aa2f7&background=1a1b26&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=default&hide_border=true">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight&hide_border=true" width="48%">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight&hide_border=true" width="49%">
   </picture>
 </p>
 
@@ -88,19 +79,21 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravindu-Sampath-Weerakoon&theme=tokyonight">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravindu-Sampath-Weerakoon&theme=default">
-    <img alt="Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravindu-Sampath-Weerakoon&theme=tokyonight" width="60%">
+    <img alt="Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravindu-Sampath-Weerakoon&theme=tokyonight" width="68%">
   </picture>
 </p>
 
 <br/>
 
-<details>
-  <summary><b>📈 View Advanced Target Habits & Detailed Metrics</b></summary>
-  <br/>
-  <p align="center">
-    <img src="github-metrics.svg" alt="GitHub Core Metrics" width="100%">
-  </p>
-</details>
+<div align="center">
+  <details>
+    <summary><b>📈 Click to Expand Advanced Target Habits & Detailed Metrics</b></summary>
+    <br/>
+    <p align="center">
+      <img src="github-metrics.svg" alt="GitHub Core Metrics" width="100%">
+    </p>
+  </details>
+</div>
 
 ---
 
@@ -132,8 +125,8 @@
   <br/><br/>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+🚀;Have+a+great+day!">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+🚀;Have+a+great+day!">
-    <img alt="Thank You" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+🚀;Have+a+great+day!">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=400&lines=Thanks+for+visiting+!+🚀;Have+a+great+day!">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=400&lines=Thanks+for+visiting+!+🚀;Have+a+great+day!">
+    <img alt="Thank You" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=400&lines=Thanks+for+visiting+!+🚀;Have+a+great+day!">
   </picture>
 </div>
