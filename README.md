@@ -62,7 +62,7 @@
 
 ### 📊 Coding Activity & Analytics
 
-<!-- Stacking side-by-side without tables using exact baseline-adjusted image heights -->
+<!-- Side-by-side split row matching layout constraints perfectly -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravindu-Sampath-Weerakoon&theme=tokyonight" height="200" alt="Most Used Languages" />
   &nbsp;&nbsp;
@@ -75,8 +75,9 @@
   <details>
     <summary><b>📈 Click to Expand Advanced Target Habits & Detailed Metrics</b></summary>
     <br/>
+    <!-- Using standard markdown paragraph sizing to downscale all nested dashboard contents perfectly -->
     <p align="center">
-      <img src="github-metrics.svg" alt="GitHub Core Metrics" width="100%">
+      <img src="github-metrics.svg" alt="GitHub Core Metrics" width="65%">
     </p>
   </details>
 </div>
