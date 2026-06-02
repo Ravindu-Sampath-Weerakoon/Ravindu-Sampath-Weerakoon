@@ -51,6 +51,19 @@
         </picture>
       </td>
     </tr>
+    <!-- Row 3: Advanced Core Metrics Layout -->
+    <tr>
+      <td colspan="2" align="center">
+        <br/>
+        <details open>
+          <summary><b>📈 View Advanced Habits & Extensive Metrics</b></summary>
+          <br/>
+          <picture>
+            <img src="github-metrics.svg" alt="GitHub Metrics Overview" width="100%">
+          </picture>
+        </details>
+      </td>
+    </tr>
   </table>
 </div>
 
