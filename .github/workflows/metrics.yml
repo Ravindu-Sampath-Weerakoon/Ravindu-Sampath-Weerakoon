@@ -1,9 +1,10 @@
 name: Metrics
 on:
-  # Schedule updates (Changed to once a day at midnight to reduce rate-limiting risk)
+  # Schedule updates once a day at midnight (reducing API rate-limiting risk)
   schedule: [{cron: "0 0 * * *"}]
-  # Allows you to run workflow manually and on each commit
+  # Allows manually running the workflow from the Actions tab
   workflow_dispatch:
+  # Triggers when code is pushed to main branches
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -14,7 +15,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
+          # 1. Your GitHub token (Make sure METRICS_TOKEN is created in Repository Settings -> Secrets)
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
@@ -23,15 +24,14 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Colombo
           
-          # --- FAILURE HANDLING & ANTI-EMAIL SETTINGS ---
-          # Uses action's internal automated account to commit, minimizing notification triggers
-          committer_bypass: ${{ secrets.GITHUB_TOKEN }}
-          # Prevents the workflow from completely crashing if a secondary plugin fails
+          # --- ERROR & ANTI-FAILURE TUNING ---
+          # If a single plugin hits a rate limit or errors out, keep the workflow green anyway
           plugins_errors_fatal: no
-          # Adds a built-in delay between heavy API calls to avoid rate limits
+          # Space out the data gathering order
           config_order: header, activity, community, repositories, metadata, languages, habits
+          # Retry up to 3 times if GitHub's API hiccups, waiting 30 seconds between tries
           retries: 3
-          delay: 30
+          retries_delay: 30
           
           # Plugin: Languages
           plugin_languages: yes
