@@ -62,11 +62,11 @@
 
 ### 📊 Coding Activity & Analytics
 
-<!-- Side-by-side split row matching layout constraints perfectly -->
+<!-- Reduced image footprint while maintaining a tight, flush layout baseline -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravindu-Sampath-Weerakoon&theme=tokyonight" height="200" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravindu-Sampath-Weerakoon&theme=tokyonight" height="170" alt="Most Used Languages" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight&hide_border=true&stroke=7aa2f7&background=1a1b26&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7" height="232" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight&hide_border=true&stroke=7aa2f7&background=1a1b26&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7" height="197" alt="GitHub Streak" />
 </p>
 
 <br/>
@@ -75,7 +75,6 @@
   <details>
     <summary><b>📈 Click to Expand Advanced Target Habits & Detailed Metrics</b></summary>
     <br/>
-    <!-- Using standard markdown paragraph sizing to downscale all nested dashboard contents perfectly -->
     <p align="center">
       <img src="github-metrics.svg" alt="GitHub Core Metrics" width="65%">
     </p>
