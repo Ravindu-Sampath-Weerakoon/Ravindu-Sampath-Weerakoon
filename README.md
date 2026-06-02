@@ -1,14 +1,16 @@
 <div align="center">
+  <!-- Dynamic Typing Header -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+👋;I'm+Ravindu+Weerakoon">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+👋;I'm+Ravindu+Weerakoon">
-    <img alt="Welcome" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+👋;I'm+Ravindu+Weerakoon">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+👋;I'm+Ravindu+Weerakoon">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+👋;I'm+Ravindu+Weerakoon">
+    <img alt="Welcome" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+👋;I'm+Ravindu+Weerakoon">
   </picture>
 
-  <p align="center">
+  <p align="center" style="max-width: 680px; line-height: 1.6; color: #888;">
     I am a passionate explorer of the digital realm, currently in my final year of Computer Science. My journey is fueled by a love for solving complex problems and building innovative solutions across the full stack. From the low-level precision of C/C++ to the dynamic versatility of JavaScript and Python, I am always looking for the next challenge to master and explore.
   </p>
 
+  <!-- Clean Trophies Setup -->
   <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Ravindu-Sampath-Weerakoon&theme=tokyonight&no-bg=true&column=5&margin-w=15">
@@ -20,110 +22,85 @@
 
 ---
 
-### 📊 Coding Activity & Stats
+### 🛠️ Technical Arsenal
 
-<div align="center">
-  <table border="0" cellpadding="10" cellspacing="0">
-    <!-- Row 1: Main Stats -->
-    <tr>
-      <td colspan="2" align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7aa2f7&text_color=9ece6a&icon_color=7dcfff&bg_color=1a1b26">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=default&hide_border=true&count_private=true">
-          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="600">
-        </picture>
-      </td>
-    </tr>
-    <!-- Row 2: Languages and Streak -->
-    <tr>
-      <td align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravindu-Sampath-Weerakoon&theme=tokyonight">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravindu-Sampath-Weerakoon&theme=default">
-          <img alt="Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravindu-Sampath-Weerakoon&theme=tokyonight" height="210">
-        </picture>
-      </td>
-      <td align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight&hide_border=true&stroke=7aa2f7&background=1a1b26&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=default&hide_border=true">
-          <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight&hide_border=true" height="210">
-        </picture>
-      </td>
-    </tr>
-    <!-- Row 3: Advanced Core Metrics Layout -->
-    <tr>
-      <td colspan="2" align="center">
-        <br/>
-        <details open>
-          <summary><b>📈 View Advanced Habits & Extensive Metrics</b></summary>
-          <br/>
-          <picture>
-            <img src="github-metrics.svg" alt="GitHub Metrics Overview" width="100%">
-          </picture>
-        </details>
-      </td>
-    </tr>
-  </table>
-</div>
+<details open>
+  <summary><b>Languages</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white" />
+</details>
+
+<br/>
+
+<details open>
+  <summary><b>Frameworks & Tools</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" />
+</details>
+
+<br/>
+
+<details open>
+  <summary><b>Graphics & Systems</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
+</details>
 
 ---
 
-### 🛠️ Technical Arsenal
+### 📊 Coding Activity & Analytics
 
-<div align="center">
-  <!-- Section: Languages -->
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=%E2%94%81%E2%94%81%E2%94%81+LANGUAGES+I+USE+%E2%94%81%E2%94%81%E2%94%81">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=%E2%94%81%E2%94%81%E2%94%81+LANGUAGES+I+USE+%E2%94%81%E2%94%81%E2%94%81">
-    <img alt="Languages" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=%E2%94%81%E2%94%81%E2%94%81+LANGUAGES+I+USE+%E2%94%81%E2%94%81%E2%94%81">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7aa2f7&text_color=9ece6a&icon_color=7dcfff&bg_color=1a1b26">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=default&hide_border=true&count_private=true">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
   </picture>
-  <br/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-  <br/>
-  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight&hide_border=true&stroke=7aa2f7&background=1a1b26&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=default&hide_border=true">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight&hide_border=true" width="48%">
+  </picture>
+</p>
 
-  <!-- Section: Frameworks -->
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=9ECE6A&center=true&vCenter=true&width=500&lines=%E2%94%81%E2%94%81+FRAMEWORKS+%26+TOOLS+%E2%94%81%E2%94%81">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=059669&center=true&vCenter=true&width=500&lines=%E2%94%81%E2%94%81+FRAMEWORKS+%26+TOOLS+%E2%94%81%E2%94%81">
-    <img alt="Frameworks" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=9ECE6A&center=true&vCenter=true&width=500&lines=%E2%94%81%E2%94%81+FRAMEWORKS+%26+TOOLS+%E2%94%81%E2%94%81">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravindu-Sampath-Weerakoon&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravindu-Sampath-Weerakoon&theme=default">
+    <img alt="Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravindu-Sampath-Weerakoon&theme=tokyonight" width="60%">
   </picture>
-  <br/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <br/>
-  <br/>
+</p>
 
-  <!-- Section: Graphics -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7768E&center=true&vCenter=true&width=500&lines=%E2%94%81%E2%94%81+GRAPHICS+%26+SYSTEMS+%E2%94%81%E2%94%81">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=DC2626&center=true&vCenter=true&width=500&lines=%E2%94%81%E2%94%81+GRAPHICS+%26+SYSTEMS+%E2%94%81%E2%94%81">
-    <img alt="Graphics" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7768E&center=true&vCenter=true&width=500&lines=%E2%94%81%E2%94%81+GRAPHICS+%26+SYSTEMS+%E2%94%81%E2%94%81">
-  </picture>
+<br/>
+
+<details>
+  <summary><b>📈 View Advanced Target Habits & Detailed Metrics</b></summary>
   <br/>
-  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-</div>
+  <p align="center">
+    <img src="github-metrics.svg" alt="GitHub Core Metrics" width="100%">
+  </p>
+</details>
 
 ---
 
@@ -133,29 +110,30 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ravindu-Sampath-Weerakoon/Ravindu-Sampath-Weerakoon/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ravindu-Sampath-Weerakoon/Ravindu-Sampath-Weerakoon/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ravindu-Sampath-Weerakoon/Ravindu-Sampath-Weerakoon/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ravindu-Sampath-Weerakoon/Ravindu-Sampath-Weerakoon/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
 ---
 
-### 📫 Let's Connect
+### 🌐 Connect With Me
 
 <div align="center">
   <a href="mailto:w.m.t.ravindusampath@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-7AA2F7?style=flat-square&logo=gmail&logoColor=white" height="28"/>
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/ravindu-sampath-weerakoon" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
   </a>
-  <br/>
-  <br/>
+  
+  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Ravindu-Sampath-Weerakoon&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <br/>
-  <br/>
+  <br/><br/>
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=400&lines=Thanks+for+visiting+my+profile!+🚀;Have+a+great+day!">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=400&lines=Thanks+for+visiting+my+profile!+🚀;Have+a+great+day!">
-    <img alt="Thank You" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=400&lines=Thanks+for+visiting+my+profile!+🚀;Have+a+great+day!">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+🚀;Have+a+great+day!">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+🚀;Have+a+great+day!">
+    <img alt="Thank You" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+🚀;Have+a+great+day!">
   </picture>
 </div>
