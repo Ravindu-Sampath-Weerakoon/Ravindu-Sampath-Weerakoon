@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # 1. Your GitHub token (Make sure METRICS_TOKEN is created in Repository Settings -> Secrets)
+          # Your GitHub token (Make sure it is a Classic token with repo, read:user, and read:org scopes)
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
@@ -27,7 +27,7 @@ jobs:
           # --- ERROR & ANTI-FAILURE TUNING ---
           # If a single plugin hits a rate limit or errors out, keep the workflow green anyway
           plugins_errors_fatal: no
-          # Space out the data gathering order
+          # Space out the data gathering order to ensure reliable loading
           config_order: header, activity, community, repositories, metadata, languages, habits
           # Retry up to 3 times if GitHub's API hiccups, waiting 30 seconds between tries
           retries: 3
