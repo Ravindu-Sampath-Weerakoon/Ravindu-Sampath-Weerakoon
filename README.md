@@ -62,21 +62,31 @@
 
 ### 📊 Coding Activity & Analytics
 
-<!-- Line 1: Core Stats and Streak Side-By-Side at the exact same size -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7aa2f7&text_color=9ece6a&icon_color=7dcfff&bg_color=1a1b26">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=default&hide_border=true&count_private=true">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49.5%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight&hide_border=true&stroke=7aa2f7&background=1a1b26&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=default&hide_border=true">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight&hide_border=true" width="49.5%">
-  </picture>
-</p>
+<!-- Core Stats and Streak locked side-by-side using a clean, borderless portfolio table matrix -->
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=tokyonight&count_private=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=default&count_private=true">
+          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ravindu-Sampath-Weerakoon&show_icons=true&theme=tokyonight&count_private=true" width="98%">
+        </picture>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight&hide_border=true&stroke=7aa2f7&background=1a1b26&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=default&hide_border=true">
+          <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight&hide_border=true" width="98%">
+        </picture>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!-- Line 2: Balanced and resized language distribution chart -->
+<br/>
+
+<!-- Perfectly proportioned language card positioned on the center line -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravindu-Sampath-Weerakoon&theme=tokyonight">
