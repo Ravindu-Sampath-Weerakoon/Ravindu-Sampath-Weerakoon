@@ -55,31 +55,31 @@
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&works" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow" />
 </details>
 
 ---
 
 ### 📊 Coding Activity & Analytics
 
-<!-- Clean arrangement forcing Top Languages and Streak onto the same line with perfectly matched heights -->
+<!-- Grid matrix balancing the physical cards by matching visual borders perfectly -->
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
-      <!-- Column 1: Top Languages Card (Height normalized) -->
-      <td width="53%" align="center" valign="middle">
+      <!-- Column 1: Top Languages Card (Set to 200px) -->
+      <td width="52%" align="center" valign="middle">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravindu-Sampath-Weerakoon&theme=tokyonight">
           <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravindu-Sampath-Weerakoon&theme=default">
-          <img alt="Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravindu-Sampath-Weerakoon&theme=tokyonight" height="195">
+          <img alt="Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravindu-Sampath-Weerakoon&theme=tokyonight" height="200">
         </picture>
       </td>
-      <!-- Column 2: GitHub Streak Card (Height normalized) -->
-      <td width="47%" align="center" valign="middle">
+      <!-- Column 2: GitHub Streak Card (Boosted to 222px to expand borders down evenly) -->
+      <td width="48%" align="center" valign="middle">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight&hide_border=true&stroke=7aa2f7&background=1a1b26&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7">
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=default&hide_border=true">
-          <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight&hide_border=true" height="195">
+          <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Sampath-Weerakoon&theme=tokyonight&hide_border=true" height="222">
         </picture>
       </td>
     </tr>
