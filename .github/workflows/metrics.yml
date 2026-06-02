@@ -1,11 +1,11 @@
 name: Metrics
 on:
-  # Schedule updates once a day at midnight (reducing API rate-limiting risk)
-  schedule: [{cron: "0 0 * * *"}]
-  # Allows manually running the workflow from the Actions tab
+  schedule:
+    # Runs once a day at midnight (reducing API rate-limiting risk)
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  # Triggers when code is pushed to main branches
-  push: {branches: ["master", "main"]}
+  push:
+    branches: ["master", "main"]
 
 jobs:
   github-metrics:
@@ -13,26 +13,31 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # Speeds up indepth language calculation by providing local repository contexts
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Detailed Profile Metrics
+        uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token (Make sure it is a Classic token with repo, read:user, and read:org scopes)
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
+          # Core Configuration
           user: Ravindu-Sampath-Weerakoon
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Colombo
           
-          # --- ERROR & ANTI-FAILURE TUNING ---
-          # If a single plugin hits a rate limit or errors out, keep the workflow green anyway
+          # --- PERFORMANCE & RATE LIMIT DEFENSE ---
           plugins_errors_fatal: no
-          # Space out the data gathering order to ensure reliable loading
           config_order: header, activity, community, repositories, metadata, languages, habits
-          # Retry up to 3 times if GitHub's API hiccups, waiting 30 seconds between tries
           retries: 3
           retries_delay: 30
+          # Skips checking images that aren't needed, saving execution time
+          config_twemoji: no
+          config_gemoji: no
           
+          # --- OPTIMIZED PLUGINS ---
           # Plugin: Languages
           plugin_languages: yes
           plugin_languages_ignored: html, css
@@ -40,6 +45,8 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
+          # Prevents huge codebases from stalling the action run
+          plugin_languages_analysis_timeout: 15
           
           # Plugin: Habits
           plugin_habits: yes
@@ -47,6 +54,7 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
           
           # Plugin: Activity
           plugin_activity: yes
