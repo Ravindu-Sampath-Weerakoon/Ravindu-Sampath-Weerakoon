@@ -71,7 +71,7 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <details>
     <summary><b>📈 Click to Expand Advanced Target Habits & Detailed Metrics</b></summary>
     <br/>
@@ -79,7 +79,7 @@
       <img src="github-metrics.svg" alt="GitHub Core Metrics" width="65%">
     </p>
   </details>
-</div>
+</div> -->
 
 ---
 
